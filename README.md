@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Sample program</title>
+   
   </head>
   <body>
     <h1>github project</h1>
